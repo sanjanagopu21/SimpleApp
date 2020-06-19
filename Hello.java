@@ -9,6 +9,8 @@ public class Hello {
        
         // Prints, "Welcome to Git" on the terminal screen
         System.out.println("Welcome to Git");
+
+        System.out.println("Welcome to Branching");
     }
 
 }
